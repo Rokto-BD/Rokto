@@ -1,3 +1,6 @@
 [submodule "Rokto-Back-End"]
 	path = Rokto-Back-End
 	url = https://github.com/Rokto-BD/Rokto-Back-End.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Rokto-BD/frontend.git
